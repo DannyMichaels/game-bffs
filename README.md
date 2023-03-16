@@ -1,28 +1,7 @@
-# Client
+# Game BFFS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Create a web game platform that allows users to design and play online games with each other using the MEAN stack. Games could include first person shooters, turn-based strategy games, and classic boardgames.
 
-## Development server
+Players could create their own custom avatar and use it in a variety of unique game worlds. In addition, they could connect to friends and join in multi-player tournaments using real-time chat and a leaderboard system.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# game-bffs
+The game platform would utilize an intuitive user interface so it's easy to pick up and use while utilizing the full capabilities of the MEAN stack. This would include role-based authentication, data storage (both user and game-related), and responsive web design to make sure the game works seamlessly on any device.
