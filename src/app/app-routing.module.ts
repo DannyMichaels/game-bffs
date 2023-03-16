@@ -12,6 +12,11 @@ const routes: Routes = [
         loadChildren: () =>
           import('./views/home/home.module').then((m) => m.HomeModule),
       },
+      {
+        path: 'signup',
+        loadChildren: () =>
+          import('./views/signup/signup.module').then((m) => m.SignupModule),
+      },
     ],
   },
 ];
